@@ -24,10 +24,16 @@
     "url": "https://github.com/Darciechapman/google-books-search/issues"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "bootstrap": "^4.5.0",
-    "jquery": "^3.5.1"
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.9.25"
   }
 }
