@@ -17,7 +17,17 @@
     "type": "git",
     "url": "git+https://github.com/Darciechapman/google-books-search.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darciechapman/google-books-search/issues"
+  },
   "devDependencies": {
     "concurrently": "^5.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1"
   }
 }
