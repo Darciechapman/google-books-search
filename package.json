@@ -17,18 +17,6 @@
     "type": "git",
     "url": "git+https://github.com/Darciechapman/google-books-search.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Darciechapman/google-books-search/issues"
-  },
-  "homepage": "https://github.com/Darciechapman/google-books-search#readme",
-  "dependencies": {
-    "@material-ui/core": "^4.10.1",
-    "@material-ui/icons": "^4.9.1",
-    "if-env": "^1.0.4"
-  },
   "devDependencies": {
     "concurrently": "^5.2.0"
   }
